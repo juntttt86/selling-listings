@@ -1,0 +1,91 @@
+domeme_no: "64319518"
+
+representative_image: images/thumb_4.jpg
+extra_images: []
+
+names:
+  naver: "카니발트렁크정리함 접이식 폴딩박스 3단조절 옥스포드원단"
+  coupang: "일상소품만물상회 카니발트렁크정리함 접이식 폴딩박스 3단조절"
+
+brand: ""
+model_name: "해당없음"
+
+category:
+  naver_path: "생활/건강>자동차용품>수납용품>트렁크정리함"
+  naver_id: "50004106"   # 검증됨 — 2026-09-01, "카니발트렁크정리함" 검색 상위 4개 상품 카테고리 동일 확인
+
+price:
+  mode: fixed
+  sale_price: 47900
+
+options:
+  axis: "옵션"
+  values: ["기본"]
+  domeme_labels: ["트렁크 정리함"]
+  extra_price: {}
+
+attributes:
+  재질: "옥스포드(방수)"
+  접이식여부: "Y"
+  포켓수: "12개"
+  원산지: "중국"
+
+tags:
+  - 카니발트렁크정리함
+  - 트렁크정리함
+  - 접이식정리함
+  - 트렁크수납함
+  - 폴딩박스
+  - 자동차트렁크정리함
+  - 차량용정리함
+  - SUV트렁크정리함
+
+# 이 상품은 만화·영상 없이 텍스트+공급사 이미지 구성으로 확정됐다
+# (2026-09-05, 관절 없는 단순 패브릭박스라 시도는 가능했으나 사장님
+# 판단으로 생략). 아래 text 블록은 플러그인이 브랜드 서식 이미지로 렌더.
+detail_sequence:
+  - {type: image, file: images/thumb_4.jpg}
+  - {type: text,  value: "캠핑 짐, 마트 장 본 짐 — 카니발 트렁크에서 굴러다니지 않게. 접었다 폈다 자유로운 폴딩 정리함"}
+  - {type: text,  value: "3단으로 크기 조절이 가능해 카니발을 포함한 SUV·미니밴 트렁크 공간에 맞춰 사용하실 수 있습니다. 정확한 트렁크 공간은 아래 사이즈를 참고해 확인해주세요. (옵션 사이즈: 20/22/27/59cm)"}
+  - {type: image, file: images/detail_1.png}
+  - {type: text,  value: "Q. 카니발 외 다른 차종도 되나요?\nA. 3단 조절 구조라 대부분의 SUV·미니밴 트렁크에 맞춰 사용 가능합니다.\n\nQ. 방수가 되나요?\nA. 옥스포드 원단으로 물기·오염에 강하지만 완전 방수는 아닙니다."}
+  - {type: text,  value: "배송비 3,000원(별도) / 반품비 3,000원(단순변심) / 반품지 [46503] 부산 북구 사상로 620(구포동) 3층 301호"}
+
+notice:
+  품명: "접이식 트렁크 정리함"
+  모델명: "상세페이지 참조"
+  KC_인증정보: "해당없음"
+  제조자: "헤븐리브라더스 협력업체"
+  제조국: "중국"
+  동일모델_출시년월: "상세페이지 참조"
+  크기: "상세페이지 참조"
+  적용차종: "차종 공용"
+  품질보증기준: "관련 법 및 소비자분쟁해결기준에 따름"
+  AS_책임자_전화: "010-4698-0114"
+
+shipping:
+  fee: 3000
+  fee_type: "유료"
+  bundle: false
+  return_fee: 3000
+  exchange_fee: 6000   # 확인 필요 — 공급사 규정상 "통상 반품비의 2배"로 명시, 정확한 금액은 미확정(추정치)
+  return_addr: "[46503] 부산 북구 사상로 620(구포동) 3층 301호"
+  release_addr: "[46503] 부산 북구 사상로 620(구포동) 3층 301호"
+  dispatch_days: "3~5"
+
+channels:
+  naver: true
+  coupang: false
+
+minors_allowed: true
+
+constraints:
+  - "카니발 전용 표현 금지 (SUV/미니밴 트렁크 공간용 범용 상품)"
+
+source_check:
+  supply_price: 14900
+  min_qty: null          # 확인 필요 — 라이브 대조 안 됨
+  domeme_category: null  # 확인 필요 — 라이브 대조 안 됨
+  detail_image_use: null # 확인 필요 — 라이브 대조 안 됨
+
+# ⚠ 재고 9개뿐 — 등록 직후부터 매일 재고 확인 필요(공급사 재고 소진 리스크 높음)

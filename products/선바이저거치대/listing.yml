@@ -1,0 +1,88 @@
+domeme_no: "58978949"
+
+representative_image: images/thumb_4.jpg
+extra_images: []
+
+names:
+  naver: "셀토스핸드폰거치대 눈높이 선바이저형 차량용 스마트폰 마운트"
+  coupang: "일상소품만물상회 셀토스핸드폰거치대 눈높이 선바이저 마운트"
+
+brand: ""
+model_name: "해당없음"
+
+category:
+  naver_path: "생활/건강>자동차용품>휴대폰용품>차량용휴대폰거치대"
+  naver_id: "50004113"   # 검증됨 — 2026-09-01, 경쟁사 상품페이지 __PRELOADED_STATE__로 확인
+
+price:
+  mode: fixed
+  sale_price: 15900
+
+options:
+  axis: "색상"
+  values: ["그레이", "그린"]
+  domeme_labels: ["그레이", "그린"]
+  extra_price: {}
+
+attributes:
+  장착방식: "선바이저·송풍구 겸용"
+  색상: "그레이, 그린"
+  각도조절: "가능"
+  원산지: "중국"
+
+tags:
+  - 셀토스핸드폰거치대
+  - 차량용거치대
+  - 선바이저거치대
+  - 눈높이거치대
+  - 스마트폰마운트
+  - 차량용핸드폰거치대
+  - 자동차거치대
+  - 선바이저클립거치대
+
+detail_sequence:
+  - {type: text,  value: "내비 보려고 시선 내리는 순간, 사고 위험이 커집니다. 눈높이 그대로 거치하는 선바이저 거치대 — 송풍구형보다 안전합니다"}
+  - {type: image, file: images/applicability_banner.png}
+  - {type: image, file: images/detail_1.gif}
+  - {type: image, file: images/detail_2.jpg}
+  - {type: image, file: images/thumb_4.jpg}
+  - {type: image, file: images/faq_banner.png}
+  - {type: image, file: images/detail_3.jpg}
+  - {type: image, file: images/shipping_banner.png}
+
+notice:
+  품명: "차량용 스마트폰 거치대"
+  모델명: "상세페이지 참조"
+  KC_인증정보: "대상 아님"
+  제조자: "협력업체"
+  제조국: "중국"
+  동일모델_출시년월: "상세페이지 참조"
+  크기: "상세페이지 참조"
+  적용차종: "차종 공용"
+  품질보증기준: "관련 법 및 소비자분쟁해결기준에 따름"
+  AS_책임자_전화: "02-2088-1194"
+
+shipping:
+  fee: 3000
+  fee_type: "유료"
+  bundle: false
+  return_fee: 3300
+  exchange_fee: 6600   # 확인 필요 — 공급사 규정상 "통상 반품비의 2배"로 명시, 정확한 금액은 미확정(추정치)
+  return_addr: "[11415] 경기 양주시 광적면 백은로 485-15 CJ택배 회룡대리점"
+  release_addr: "[11415] 경기 양주시 광적면 백은로 485-15 CJ택배 회룡대리점"
+  dispatch_days: "3~5"
+
+channels:
+  naver: true
+  coupang: false
+
+minors_allowed: true
+
+constraints:
+  - "셀토스 전용/호환 과장 표현 금지"
+
+source_check:
+  supply_price: 1990
+  min_qty: 3
+  domeme_category: "디지털/가전>휴대폰액세서리>휴대폰거치대"
+  detail_image_use: "허용"
