@@ -1,0 +1,61 @@
+domeme_no: "65563673"
+representative_image: images/thumb_4.jpg
+extra_images: []
+names:
+  naver: "토퍼압축팩 초대형 매트리스 이불 압축팩 밀폐형"
+  coupang: "일상소품만물상회 토퍼압축팩 초대형 매트리스 이불압축팩"
+brand: ""
+model_name: "RD_0133"
+category:
+  naver_path: "생활/건강>수납/정리용품>압축팩"
+  naver_id: null   # 확인 필요 — 사장님이 경로는 직접 확인(2026-09-13), categoryId 숫자값은 미확인
+price:
+  mode: fixed
+  sale_price: 30900   # 확정 — 배송비 3,000원 기준, 실질원가 11,930원, 비율 38.6%(2026-09-13)
+# options 없음 — 단일 상품
+attributes:
+  크기: "220x100cm"
+  원산지: "중국"
+  용도: "매트리스 토퍼·이불·롱패딩 압축보관"
+tags:
+  - 토퍼압축팩
+  - 매트리스압축팩
+  - 이불압축팩
+  - 압축파우치
+  - 초대형압축팩
+  - 이불보관
+  - 침구정리
+  - 진공압축팩
+  - 장롱정리
+  - 이사정리
+detail_sequence:
+  - {type: image, file: images/thumb_4.jpg}
+  - {type: image, file: images/detail_1.jpg}
+  - {type: text, value: "Q. 토퍼 외 다른 침구에도 쓸 수 있나요? A. 220x100cm 초대형 사이즈로 매트리스 토퍼뿐 아니라 이불·롱패딩 등 부피가 큰 침구 보관에도 사용 가능합니다.\nQ. 진공청소기가 있어야 하나요? A. 밸브 방식으로 진공청소기로 공기를 빼면 더 확실하게 압축됩니다(청소기 없이도 눌러서 어느 정도 압축 가능).\n배송비 3,000원(유료) / 제주 +6,000원 / 도서산간 +6,000원 / 반품비 4,000원 / 교환비 약 8,000원(추정) / 출고 2~3일"}
+notice:
+  품명: "매트리스 이불 압축팩"
+  모델명: "RD_0133"
+  KC_인증정보: "대상 아님"
+  크기: "220x100cm"
+  품질보증기준: "관련 법 및 소비자분쟁해결기준에 따름"
+  AS_책임자_전화: "010-2680-5644(공급사 연락처 — 등록 시 사장님 본인 연락처로 교체 권장)"
+shipping:
+  fee: 3000
+  fee_type: "유료"
+  bundle: false   # 공급사 "묶음배송 불가능" 명시
+  return_fee: 4000
+  exchange_fee: 8000   # 확인 필요 — 공급사 규정상 "통상 반품비의 2배"로 명시, 정확한 금액은 미확정(추정치)
+  return_addr: "[10090] 경기 김포시 태장로795번길 23 (장기동) 마스터비즈파크 1층 R115"
+  release_addr: "[10090] 경기 김포시 태장로795번길 23 (장기동) 마스터비즈파크 1층 R115"
+  dispatch_days: "2~3"
+  jeju_extra: 6000
+  island_extra: 6000
+channels:
+  naver: true
+  coupang: false   # 1단계 원칙(네이버 우선) — 쿠팡 등록 여부 사장님 확인 대기
+minors_allowed: true
+source_check:
+  supply_price: 8930
+  min_qty: null   # 확인 필요
+  domeme_category: null   # 확인 필요
+  detail_image_use: null   # 확인 필요
