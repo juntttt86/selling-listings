@@ -1,0 +1,12 @@
+{
+  "domeme_no": "67875958",
+  "filled_at": "2026-09-13T13:00:00Z",
+  "values": {
+    "장착위치": "컵홀더",
+    "거치수량": "2개",
+    "부가기능": ["크기조절"]
+  },
+  "needs_confirmation": [
+    {"label": "색상", "reason": "listing.yml attributes에 색상 정보가 없음 — 실물/사진 확인 필요"}
+  ]
+}

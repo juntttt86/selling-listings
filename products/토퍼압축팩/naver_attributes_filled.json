@@ -1,0 +1,12 @@
+{
+  "domeme_no": "65563673",
+  "filled_at": "2026-09-13T13:00:00Z",
+  "values": {
+    "용도": ["이불용"],
+    "형태": ["밸브형"],
+    "특징": ["재사용가능"],
+    "가로사이즈": {"bucket": "200cm ~", "value": 220, "unit": "cm"},
+    "세로사이즈": {"bucket": "50cm ~ 100cm", "value": 100, "unit": "cm"}
+  },
+  "needs_confirmation": []
+}
