@@ -1,0 +1,35 @@
+{
+  "domeme_no": "44652473",
+  "category_path": "생활/건강>주방용품>보관/밀폐용기>쌀통",
+  "captured_at": "2026-09-13T11:08:15Z",
+  "fields": [
+    {
+      "label": "용기재질",
+      "type": "checkbox_multi",
+      "options": [
+        "스테인리스",
+        "도자기",
+        "유리",
+        "플라스틱",
+        "트라이탄",
+        "실리콘",
+        "원목",
+        "기타"
+      ]
+    },
+    {
+      "label": "용량",
+      "type": "range_with_value",
+      "bucket_options": [
+        "~ 5kg",
+        "5kg ~ 10kg",
+        "10kg ~ 15kg",
+        "15kg ~ 20kg",
+        "20kg ~"
+      ],
+      "real_value_input": true,
+      "unit_selectable": true,
+      "note": "구간(bucket_options) 중 하나 선택 + 정확한 실측값(숫자) + 단위(보통 cm/kg 등) 필요. 단위 후보가 너무 많아 목록 생략 — 값에 맞는 자연스러운 단위 지정하면 됨."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "domeme_no": "65563673",
+  "category_path": "생활/건강>수납/정리용품>압축팩",
+  "captured_at": "2026-09-13T11:08:15Z",
+  "fields": [
+    {
+      "label": "용도",
+      "type": "checkbox_multi",
+      "options": [
+        "이불용",
+        "의류용",
+        "신발용",
+        "휴대/여행용"
+      ]
+    },
+    {
+      "label": "형태",
+      "type": "checkbox_multi",
+      "options": [
+        "밸브형",
+        "옷걸이형"
+      ]
+    },
+    {
+      "label": "특징",
+      "type": "checkbox_multi",
+      "options": [
+        "지퍼클립",
+        "재사용가능"
+      ]
+    },
+    {
+      "label": "가로사이즈",
+      "type": "range_with_value",
+      "bucket_options": [
+        "~ 50cm",
+        "50cm ~ 100cm",
+        "100cm ~ 150cm",
+        "150cm ~ 200cm",
+        "200cm ~"
+      ],
+      "real_value_input": true,
+      "unit_selectable": true,
+      "note": "구간(bucket_options) 중 하나 선택 + 정확한 실측값(숫자) + 단위(보통 cm/kg 등) 필요. 단위 후보가 너무 많아 목록 생략 — 값에 맞는 자연스러운 단위 지정하면 됨."
+    },
+    {
+      "label": "세로사이즈",
+      "type": "range_with_value",
+      "bucket_options": [
+        "~ 50cm",
+        "50cm ~ 100cm",
+        "100cm ~ 150cm",
+        "150cm ~ 200cm",
+        "200cm ~"
+      ],
+      "real_value_input": true,
+      "unit_selectable": true,
+      "note": "구간(bucket_options) 중 하나 선택 + 정확한 실측값(숫자) + 단위(보통 cm/kg 등) 필요. 단위 후보가 너무 많아 목록 생략 — 값에 맞는 자연스러운 단위 지정하면 됨."
+    }
+  ]
+}
