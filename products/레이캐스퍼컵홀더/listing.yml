@@ -1,0 +1,63 @@
+domeme_no: "67875958"
+representative_image: images/thumb_4.jpg
+extra_images: []
+names:
+  naver: "레이컵홀더 캐스퍼컵홀더 차량용 듀얼 컵홀더 확장형"
+  coupang: "일상소품만물상회 레이컵홀더 캐스퍼컵홀더 차량용 듀얼컵홀더"
+brand: ""
+model_name: "B51"
+category:
+  naver_path: "생활/건강>자동차용품>수납용품>차량용홀더"
+  naver_id: null   # 확인 필요 — naver_category.json은 breadcrumb 경로만 확보
+price:
+  mode: fixed
+  sale_price: 47900   # 확정 — 배송비 3,000원 기준, 실질원가 18,900원, 비율 39.5%(2026-09-13) — 컵홀더치고 고가, 등록 후 반응 확인 권장
+# options 없음 — 단일 상품(B51 컵홀더)
+attributes:
+  장착방식: "기존 차량 컵홀더 삽입형(66~100mm 조절)"
+  구성: "듀얼 컵홀더"
+  원산지: "중국"
+tags:
+  - 레이컵홀더
+  - 캐스퍼컵홀더
+  - 듀얼컵홀더
+  - 차량용컵홀더
+  - 컵홀더확장형
+  - 자동차수납
+  - 경차컵홀더
+  - 모닝컵홀더
+  - 차량용품
+  - 텀블러거치대
+detail_sequence:
+  - {type: image, file: images/thumb_4.jpg}
+  - {type: image, file: images/detail_2.jpg}
+  - {type: image, file: images/detail_3.jpg}
+  - {type: text, value: "66~100mm 범위의 차량용 컵홀더에 꽂아 쓰는 확장형으로 레이·캐스퍼·모닝 등 다양한 차종에서 사용 가능합니다. 기존 컵홀더 지름을 먼저 확인해 주세요.\n배송비 3,000원(유료) / 제주 +3,000원 / 도서산간 +6,000원 / 반품비 3,000원 / 교환비 약 6,000원(추정) / 출고 2~3일"}
+notice:
+  품명: "차량용 듀얼 컵홀더"
+  모델명: "B51"
+  KC_인증정보: "대상 아님"
+  품질보증기준: "관련 법 및 소비자분쟁해결기준에 따름"
+  AS_책임자_전화: "010-5858-1446(공급사 연락처 — 등록 시 사장님 본인 연락처로 교체 권장)"
+constraints:
+  - "\"레이/캐스퍼 전용\" 표현 금지 — 기존 컵홀더 삽입형 범용 확장 제품(2단계 B유형)"
+shipping:
+  fee: 3000
+  fee_type: "유료"
+  bundle: true   # 공급사 "묶음배송 가능(동일 출고지)" 명시
+  return_fee: 3000
+  exchange_fee: 6000   # 확인 필요 — 공급사 규정상 "통상 반품비의 2배"로 명시, 정확한 금액은 미확정(추정치)
+  return_addr: "[10366] 경기 고양시 일산서구 중앙로 1391 (주엽동, 강선마을12단지아파트) 두진"
+  release_addr: "[10366] 경기 고양시 일산서구 중앙로 1391 (주엽동, 강선마을12단지아파트) 두진"
+  dispatch_days: "2~3"
+  jeju_extra: 3000
+  island_extra: 6000
+channels:
+  naver: true
+  coupang: false   # 1단계 원칙(네이버 우선) — 쿠팡 등록 여부 사장님 확인 대기
+minors_allowed: true
+source_check:
+  supply_price: 15900
+  min_qty: null   # 확인 필요
+  domeme_category: null   # 확인 필요
+  detail_image_use: null   # 확인 필요
