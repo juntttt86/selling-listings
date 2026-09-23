@@ -1,0 +1,67 @@
+domeme_no: "63202954"
+representative_image: images/thumb_4.jpg
+extra_images: []
+names:
+  naver: "대시보드 흡착식 360도회전 차량용 핸드폰거치대"
+  coupang: "일상소품만물상회 대시보드 흡착식 360도회전 핸드폰거치대"
+brand: ""
+model_name: "해당없음"
+category:
+  naver_path: "생활/건강>자동차용품>휴대폰용품>차량용휴대폰거치대"
+  naver_id: null   # 확인 필요 — 등록 시 재확인
+price:
+  mode: fixed
+  sale_price: 15900   # 확정 — 배송비 3,000원 기준, 실질원가 6,100원, 비율 38.4%(2026-09-23)
+# options 없음 — 단일 상품
+attributes:
+  재질: "플라스틱+실리콘"
+  장착방식: "흡착식(대시보드/콘솔)"
+  각도조절: "360도 회전 가능"
+  원산지: "중국"
+tags:
+  - 팰리세이드핸드폰거치대
+  - 차량용거치대
+  - 흡착식거치대
+  - 대시보드거치대
+  - 360도회전거치대
+  - 차량핸드폰거치대
+  - 자동차용품
+  - 흡판형거치대
+  - 차량용마운트
+  - 스마트폰거치대
+detail_sequence:
+  - {type: text, value: "과속방지턱만 넘으면 핸드폰이 훅 꺾이던 그 거치대, 이제 그만. 나노겔 흡착판+이중 실리콘 소재로 흔들림을 확실히 잡아줍니다."}
+  - {type: image, file: images/thumb_4.jpg}
+  - {type: image, file: images/detail_1.jpg}
+  - {type: text, value: "대시보드·콘솔 어디든 흡착 가능한 범용 제품입니다(특정 차종 전용 아님). 정확한 설치 가능 여부는 대시보드 재질과 각도를 확인해 주세요."}
+  - {type: image, file: images/detail_2.png}
+  - {type: text, value: "Q. 한 손으로 폰 넣고 빼기 되나요? A. 원터치 개폐 구조라 운전 중에도 한 손으로 조작 가능합니다.\nQ. 여름철 대시보드 열기에 흡착판이 헐거워지지 않나요? A. 방수·내열 실리콘 소재지만, 직사광선이 매우 강한 환경에서는 정기적으로 흡착 상태를 확인해 주세요.\n배송비 3,000원(유료) / 제주 +4,000원 / 도서산간 +4,000원 / 반품비 3,000원 / 교환비 약 6,000원(추정) / 출고 2~3일"}
+notice:
+  품명: "차량용 핸드폰 거치대"
+  모델명: "해당없음"
+  KC_인증정보: "대상 아님"
+  크기: "상세페이지 참조"
+  품질보증기준: "관련 법 및 소비자분쟁해결기준에 따름"
+  AS_책임자_전화: "010-6204-0799(공급사 연락처 — 등록 시 사장님 본인 연락처로 교체 권장)"
+constraints:
+  - "상품명에 특정 차종명(팰리세이드 등) 사용 금지 — 이 시장은 '전용 핏' 기대로 형성돼 있어 범용 흡착식 제품과 포지셔닝이 안 맞음(2026-09-23 경쟁사 리서치, 의사결정_로그 41차). 검증 키워드는 태그로만 사용."
+shipping:
+  fee: 3000
+  fee_type: "유료"
+  bundle: true
+  return_fee: 3000
+  exchange_fee: 6000   # 확인 필요 — 공급사 규정상 "통상 반품비의 2배"로 명시, 정확한 금액은 미확정(추정치)
+  return_addr: "[14724] 경기 부천시 소사구 경인로137번가길 83 (심곡본동) 2층"
+  release_addr: "[14724] 경기 부천시 소사구 경인로137번가길 83 (심곡본동) 2층"
+  dispatch_days: "2~3"
+  jeju_extra: 4000
+  island_extra: 4000
+channels:
+  naver: true
+  coupang: false   # 1단계 원칙(네이버 우선) — 쿠팡 등록 여부 사장님 확인 대기
+minors_allowed: true
+source_check:
+  supply_price: 3100
+  min_qty: null   # 확인 필요
+  domeme_category: null   # 확인 필요
+  detail_image_use: null   # 확인 필요
